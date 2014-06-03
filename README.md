@@ -8,3 +8,4 @@ This is a stitch & glue plywood canoe, model was made on Blender, and then faces
 Not a lot of measures on the plan, up to you to figure this out !
 
 ![first canoe render](first-canoe.jpg)
+![first canoe render](first-canoe.png)]
